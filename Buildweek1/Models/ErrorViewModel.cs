@@ -1,4 +1,4 @@
-namespace Buildweek1.Models
+namespace BW1_E_commerce.Models
 {
     public class ErrorViewModel
     {
